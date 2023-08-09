@@ -1,1 +1,24 @@
-[]
+# options.json
+
+        
+[
+  {
+    "patchName": "Theme",
+    "options": [
+      {
+        "key": "darkThemeBackgroundColor",
+        "value": "#181818"
+      }
+    ]
+  },
+  {
+    "patchName": "Spoof client",
+    "options": [
+      {
+        "key": "client-id",
+        "value": "srpsnE4dR66w0zASOoeALA"
+      }
+    ]
+  }
+]
+        
