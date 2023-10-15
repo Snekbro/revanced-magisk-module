@@ -26,9 +26,11 @@ apkmirror-arch = "both"
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
+rv-brand = "ReVanced"
+build-mode = "module"
+excluded-patches = "'Vanced MicroG support' 'Premium heading'"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
 
 [Music]
 build-mode = "both"
