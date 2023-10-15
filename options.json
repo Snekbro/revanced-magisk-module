@@ -8,6 +8,15 @@
         "value": "#181818"
       }
     ]
+  },
+  {
+    "patchName": "Custom branding YouTube name",
+    "options": [
+      {
+        "key": "YouTubeAppName",
+        "value": "ReVanced"
+      }
+    ]
   }
 ]
         
