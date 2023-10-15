@@ -1,9 +1,7 @@
-[YouTube-Extended]
-enabled = "true"
-app-name = "YouTube"
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
-rv-brand = "ReVanced"
-build-mode = "module"
-excluded-patches = "'Vanced MicroG support' 'Premium heading'"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+rv-brand = "inotia00 ReVanced"
+included-patches = "'Disable landscape mode'"
+excluded-patches = "'Custom branding icon Revancify blue' 'Custom package name' 'MicroG support' 'Translations'"
