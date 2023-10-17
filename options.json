@@ -1,20 +1,11 @@
         
 [
   {
-    "patchName": "Theme",
+    "patchName": "Spoof client",
     "options": [
       {
-        "key": "darkThemeBackgroundColor",
-        "value": "#181818"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom branding YouTube name",
-    "options": [
-      {
-        "key": "YouTubeAppName",
-        "value": "ReVanced"
+        "key": "client-id",
+        "value": "-h5ocy_ZTwuRAH8VzFKMwQ"
       }
     ]
   }
