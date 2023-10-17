@@ -1,8 +1,3 @@
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-rv-brand = "inotia00 ReVanced"
-build-mode = "module"
-included-patches = "'Disable landscape mode'"
-excluded-patches = "'Custom branding icon Revancify blue' 'Custom package name' 'MicroG support' 'Translations'"
+[Relay]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/dbrady/relay-for-reddit-2/"
+build-mode = "both"
