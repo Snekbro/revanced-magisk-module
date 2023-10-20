@@ -6,6 +6,6 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.0.2-all.jar  
-Integrations: ReVanced/revanced-integrations-0.119.2.apk  
-Patches: ReVanced/revanced-patches-2.194.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v2.194.0)  
+Integrations: ReVanced/revanced-integrations-0.120.0.apk  
+Patches: ReVanced/revanced-patches-2.195.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v2.195.0)  
