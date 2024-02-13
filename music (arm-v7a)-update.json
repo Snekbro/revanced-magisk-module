@@ -1,6 +1,6 @@
 {
-  "version": "v6.17.52",
-  "versionCode": 6,
-  "zipUrl": "https://github.com/Snekbro/revanced-magisk-module/releases/download/6/music-revanced-magisk-v6.17.52-arm-v7a.zip",
+  "version": "v6.37.50",
+  "versionCode": 26,
+  "zipUrl": "https://github.com/Snekbro/revanced-magisk-module/releases/download/26/music-revanced-magisk-v6.37.50-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Snekbro/revanced-magisk-module/update/build.md"
 }
