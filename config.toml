@@ -7,28 +7,26 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [Music]
 enabled = true
-app-name = "Music"
+app-name = "Music Extended"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced"
+rv-brand = "ReVanced Extended"
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-arch = "arm64-v8a"
 included-patches = "'Permanent repeat' 'Permanent shuffle' 'Compact header'"
 
 [YouTube]
 enabled = true
-app-name = "ReVanced"
+app-name = "ReVanced Extended"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced"
+rv-brand = "ReVanced Extended"
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-arch = "arm64-v8a"
 included-patches = "'Custom branding'"
 
 [Spotify]
