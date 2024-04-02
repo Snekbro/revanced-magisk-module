@@ -17,4 +17,13 @@
       }
     ]
   }
+  {
+    "patchName": "Spoof client",
+    "options": [
+      {
+        "key": "client-id",
+        "value": "srpsnE4dR66w0zASOoeALA"
+      }
+    ]
+  }
 ]
