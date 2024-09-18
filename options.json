@@ -27,13 +27,4 @@
       }
     ]
   },
-  {
-    "patchName": "Spoof client",
-    "options": [
-      {
-        "key": "client-id",
-        "value": "QyHrI92Tgf_t2RzaLGwsww"
-      }
-    ]
-  }
 ][]
