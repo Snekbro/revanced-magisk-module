@@ -17,21 +17,13 @@
       }
     ]
   },
+  
   {
     "patchName": "Spoof client",
     "options": [
       {
         "key": "client-id",
-        "value": "srpsnE4dR66w0zASOoeALA"
-      }
-    ]
-  }
-    {
-    "patchName": "Spoof client",
-    "options": [
-      {
-        "key": "client-id",
-        "value": "https://www.apkmirror.com/apk/dbrady/relay-for-reddit-2/relay-for-reddit-2-10-2-40-release/relay-for-reddit-10-2-40-android-apk-download/download/?key=e2f58ea19d6e1284c2b8777eefd0a77b03a23a4a"
+        "value": "QyHrI92Tgf_t2RzaLGwsww"
       }
     ]
   },
@@ -40,7 +32,7 @@
     "options": [
       {
         "key": "client-id",
-        "value": "https://www.apkmirror.com/apk/dbrady/relay-for-reddit-2/relay-for-reddit-2-10-2-40-release/relay-for-reddit-10-2-40-android-apk-download/download/?key=e2f58ea19d6e1284c2b8777eefd0a77b03a23a4a"
+        "value": "QyHrI92Tgf_t2RzaLGwsww"
       }
     ]
   }
