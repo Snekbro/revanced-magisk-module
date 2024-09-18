@@ -16,3 +16,11 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" # fallback
 [Sync Pro]
 enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit"
+
+
+[Relay]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/dbrady/relay-for-reddit-2"
+
+[Relayy]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/dbrady/relay-for-reddit-
+2"
