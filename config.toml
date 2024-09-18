@@ -13,10 +13,5 @@ version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" # fallback
 
-[Sync Pro]
-enabled = true
-apkmirror-dlurl = "https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit"
-
-
 [Relay]
 archive-dlurl = "https://3007.filemail.com/api/file/get?filekey=_TxqUCHBjnwGBx4gi-Np70uvUIuy8HMqQwIPGrLyALPY_whE9Lt3cBcKoBuzaE1ry8eBLi6OqupeA6qeulNIU403lA&pk_vid=bb6419ca023c0b361726677547f316aa"
