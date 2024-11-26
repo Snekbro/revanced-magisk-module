@@ -1,4 +1,5 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patcher-args = "-OdarkThemeBackgroundColor=181818 "
+included-patches = "'Enable slide to seek'"
+patcher-args = "-OdarkThemeBackgroundColor=#FF181818 "
 
