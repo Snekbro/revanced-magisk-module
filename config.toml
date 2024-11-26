@@ -1,4 +1,4 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patcher-args = "-OdarkThemeBackgroundColor=#181818 "
+patcher-args = "-OdarkThemeBackgroundColor=181818 "
 
